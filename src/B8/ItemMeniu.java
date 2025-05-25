@@ -9,6 +9,6 @@ public class ItemMeniu implements ElementMeniu{
 
     @Override
     public void afisazaInformatii(String indentare) {
-        System.out.println("    -> " + denumireItem);
+        System.out.println("     -> " + denumireItem);
     }
 }
